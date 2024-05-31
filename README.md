@@ -1,4 +1,4 @@
 # Github-Codespaces
 using Codespaces with Azure DevOps
 
-Update README.md - board work item AB#3
+This is the initial readme for testing codespaces and integrations with GitHub and Azure DevOps
